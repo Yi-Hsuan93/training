@@ -2,7 +2,7 @@ import pandas as pd
 import time
 import torch
 import torch.nn as nn
-# 測試
+
 from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 from torch.utils.data import DataLoader
